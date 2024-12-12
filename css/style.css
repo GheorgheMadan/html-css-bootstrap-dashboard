@@ -6,27 +6,7 @@
   img {
     width: 50px;
   }
-  main {
-    width: 94%;
-    margin: 0 auto;
-  }
-  .navbar-toggler {
-    border: 1px solid gray;
-  }
-  .navbar-toggler-icon {
-    color: gray;
-  }
 
-  tbody .text-white {
-    font-size: 12px;
-    padding: 1px 7px;
-    border-radius: 7px;
-    font-weight: bold;
-  }
 
-  .fa-solid {
-    font-size: 12px;
-  }
-  /* table .btn {
-    padding: 0px 4px;
-  } */
+
+ 
